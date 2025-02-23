@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-[![Video Title](https://img.youtube.com/vi/NW1u85gMUBk/0.jpg)](https://www.youtube.com/watch?v=NW1u85gMUBk)
-
 <!--
 **fahrel-fh2206836/fahrel-fh2206836** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
