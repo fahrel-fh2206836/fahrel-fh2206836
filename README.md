@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I'm Fahrel</h1>
 
-<!--
-**fahrel-fh2206836/fahrel-fh2206836** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align="center">✨ About Me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🎓 Senior Computer Science Student
+🌟 Passionate about Software Development & Engineering (💻) and AI & Data Science Enthusiast (🤖).
+🚀 Always eager to learn, innovate, and collaborate on impactful projects.  
+</p>
+
+---
+
+<h3 align="center">📫 Contact Me</h3>
+
+<p align="center">
+📧 <a href="mailto:fahrelazki@gmail.com">fahrelazki@gmail.com</a>  
+</p>
