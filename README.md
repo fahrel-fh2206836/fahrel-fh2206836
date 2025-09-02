@@ -10,6 +10,8 @@
 🚀 Always eager to learn, innovate, and collaborate on impactful projects.  
 </p>
 
+--
+
 <h3 align="center">📫 Contact Me</h3>
 
 <p align="center">
